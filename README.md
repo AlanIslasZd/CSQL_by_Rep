@@ -23,3 +23,6 @@ Commercial/Enterprise/SMB segments only). Instead, CSQLs are identified by:
 -- Adjust date range as needed:
 AND s.CREATED_DATE >= '2024-07-01'
 AND s.CREATED_DATE < '2025-01-01'
+```
+### Source
+[CSQLs Britney/ Marco](https://docs.google.com/spreadsheets/d/1atTd89PkanTDWFTIbh0hBdIHBeEEjowabn3ENHrFCa0/edit?usp=sharing)
