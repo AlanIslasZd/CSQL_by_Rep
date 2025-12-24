@@ -42,6 +42,7 @@ AND s.CREATED_DATE < '2025-01-01'
 - [Laura Lucid Diagam](https://lucid.app/lucidchart/eb1a43f5-5799-4d56-9413-293209ea22fa/edit?viewport_loc=-279%2C-580%2C4408%2C3229%2C0_0&invitationId=inv_cc702ca9-ca02-4ffb-9da1-0a08e22dd9d1)
 - [Laura's Request](https://zendesk.slack.com/archives/C0A2VT080M7/p1764093866566429)
 - [NA Transformation Metrics Tracker](https://docs.google.com/spreadsheets/d/1AcpZjuqe8eIbjLQBrTPr1xl47cbmunUWd-n7GsGbgmE/edit?usp=sharing)
+- [Mock up Presentation 1](https://docs.google.com/presentation/d/1-vkp4ij9zHWd0o34Kr_5UteZvlAHR-fNHxmYv_q1y-I/edit?slide=id.p5#slide=id.p5)
 
 
 #### Message sent to Britney on Dec 18 2025
