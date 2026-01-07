@@ -10,9 +10,11 @@ Exploring Claude to Get started with understanding the problem [applying Consult
 
 ## Main Analysis
 - [Velocity Analysis](https://app.snowflake.com/zendesk/global/?loginAfterSessionExpired=true#/notebooks/_SANDBOX_WORKING_CAPITAL.PUBLIC.CSQLS_VELOCITY_ANALYSIS)
+- [Velocity Analysis V2](https://github.com/AlanIslasZd/CSQL_by_Rep/blob/main/stage_velocity_analysis_Jan_6.ipynb)
 
 ## Colab Analysis
 - [Sankey Stage Journey Analysis](https://colab.research.google.com/drive/1spzikzYazNr6RYFu6KComgD_r0xDNigf?usp=sharing)
+- [Semantic Mapping of fields using Colab and Claude](https://github.com/AlanIslasZd/CSQL_by_Rep/blob/main/Copy_of_CSQLs_Velocity_Value_and_Attribution_Analysis_.ipynb)
 
 ## Context
 Analysis for Digital Customer Success team pipeline targets.
@@ -42,6 +44,8 @@ AND s.CREATED_DATE < '2025-01-01'
 - [Laura Lucid Diagam](https://lucid.app/lucidchart/eb1a43f5-5799-4d56-9413-293209ea22fa/edit?viewport_loc=-279%2C-580%2C4408%2C3229%2C0_0&invitationId=inv_cc702ca9-ca02-4ffb-9da1-0a08e22dd9d1)
 - [Laura's Request](https://zendesk.slack.com/archives/C0A2VT080M7/p1764093866566429)
 - [NA Transformation Metrics Tracker](https://docs.google.com/spreadsheets/d/1AcpZjuqe8eIbjLQBrTPr1xl47cbmunUWd-n7GsGbgmE/edit?usp=sharing)
+- [NA Transformation Metrics Tracker V2 Lucid](https://lucid.app/lucidchart/6f720bc2-094b-4472-9c4d-1e1e1c7820f0/edit?viewport_loc=-4967%2C-6240%2C24686%2C15318%2CWQJgYj5FwW3w&invitationId=inv_2b329b31-ac93-4ea5-a4ed-351a3f7f7ed6)
+  -  Contains Several ERDs and Semantic Mapping of key fields  
 - [Mock up Presentation 1](https://docs.google.com/presentation/d/1-vkp4ij9zHWd0o34Kr_5UteZvlAHR-fNHxmYv_q1y-I/edit?slide=id.p5#slide=id.p5)
 
 
