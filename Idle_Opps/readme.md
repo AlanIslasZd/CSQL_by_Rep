@@ -3,6 +3,56 @@
 ## Purpose
 Track opportunity stage velocity using a clean LEAD-based approach. This query calculates how long each opportunity spent in each sales stage by using the next stage's entry timestamp as the current stage's exit.
 
+## Key Findings (CSQL Cohort - Jan 2025+)
+
+### [Pipeline Overview](https://docs.google.com/spreadsheets/d/10vpCcVoBQ3OjM398zMECzvuinrCHbgTCBbBC9bDKMV4/edit?usp=sharing)
+| Metric | Count | % of Total |
+|--------|-------|------------|
+| **Total Opps Created** | 2,472 | 100% |
+| **Won** | 589 | 23.8% |
+| **Open (In Pipeline)** | 927 | 37.5% |
+| **Lost** | 956 | 38.7% |
+
+### 🚨 Stage 02 (Confirm Need) - Idle Analysis
+
+| Idle Duration | Count | % of Open | Risk Level |
+|---------------|-------|-----------|------------|
+| **< 30 days** | 213 | 23.0% | ✅ Healthy |
+| **30-60 days** | 114 | 12.3% | ⚠️ At Risk |
+| **> 90 days (3+ months)** | 264 | 28.5% | 🔴 High Risk |
+
+### Why This Matters
+
+**Stage 02 (Confirm Need) is a critical bottleneck:**
+
+1. **264 opps (28.5% of open pipeline)** have been stuck in the very first qualification stage for over 3 months. These are essentially dead deals that:
+   - Inflate pipeline numbers artificially
+   - Consume sales rep attention without progression
+   - Should likely be disqualified or re-engaged with urgency
+
+2. **114 opps in the 30-60 day range** are approaching the danger zone. Proactive intervention now could prevent them from becoming stale.
+
+3. **Only 213 opps (23%)** are in a healthy state with recent activity. This suggests a systemic issue with either:
+   - Lead quality entering Stage 02
+   - Sales process/methodology at the qualification stage
+   - Rep capacity or prioritization
+
+### Recommendations
+
+1. **Immediate Action**: Review the 264 high-risk opps (3+ months idle)
+   - Disqualify deals with no real engagement
+   - Escalate promising deals that need executive attention
+   
+2. **Process Improvement**: Investigate why opps stall at "Confirm Need"
+   - Is the qualification criteria clear?
+   - Are reps equipped to move deals past initial discovery?
+   
+3. **Pipeline Hygiene**: Implement automated alerts for opps idle > 30 days
+
+4. **Win Rate Context**: With only 23.8% win rate, focus on qualification quality over quantity
+
+---
+
 ## Key Concept
 **Stage Exit = Next Stage Entry**
 
