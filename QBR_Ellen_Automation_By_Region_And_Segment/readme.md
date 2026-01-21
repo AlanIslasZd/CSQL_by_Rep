@@ -68,6 +68,9 @@ For each metric, the data is broken down into the following specific buckets:
 
 - [No of MQLs and Conversion Rates by Segment and Region](https://github.com/AlanIslasZd/CSQL_by_Rep/blob/main/marketing_no_of_mqls_and_conversion_rates_by_segment_and_region.ipynb)
 
+- [Marketing Overview Dash](https://prod-useast-a.online.tableau.com/#/site/zendesktableau/views/MarketingOverviewDashboard_New/MQLFunnel?:iid=1)
+   - The MQL Follow up Tracker was used to export the first table as images, then OCR with Gemini and that was how the input for the previous notebook was obtained. 
+
 
 ## 📝 SQL Logic Reference
 The logic in these scripts is strictly aligned with the source SQL files found in:
