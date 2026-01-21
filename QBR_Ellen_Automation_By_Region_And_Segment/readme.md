@@ -62,6 +62,13 @@ For each metric, the data is broken down into the following specific buckets:
 * `pandas`
 * `functools` (for merging dataframes)
 
+## Key Links
+
+- [Output File](https://docs.google.com/spreadsheets/d/1T7LYfa9c10CAs8DEdhq3CO5ZoYCLAEaXRLGuI1lePQQ/edit?gid=1833582232#gid=1833582232)
+
+- [No of MQLs and Conversion Rates by Segment and Region](https://github.com/AlanIslasZd/CSQL_by_Rep/blob/main/marketing_no_of_mqls_and_conversion_rates_by_segment_and_region.ipynb)
+
+
 ## 📝 SQL Logic Reference
 The logic in these scripts is strictly aligned with the source SQL files found in:
 * `QBR_Velocity_and_Slippage/QBR_Stage_Conversion_and_Slippage_Analysis.sql`
